@@ -1,0 +1,6 @@
+@article{REPO322,
+    author = "Shao, Wenqi and Chen, Mengzhao and Zhang, Zhaoyang and Xu, Peng and Zhao, Lirui and Li, Zhiqian and Zhang, Kaipeng Zhang and Gao, Peng and Qiao, Yu and Luo, Ping",
+    journal = "arXiv preprint arXiv:2308.13137",
+    title = "{OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models}",
+    year = "2023"
+}
